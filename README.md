@@ -1,8 +1,7 @@
-reactsrap
-bootstrap
-leaflet, OpenStreetMap
-react-leaflet
+# Tools Used
+## react, reactsrap, bootstrap, leaflet, OpenStreetMap, react-leaflet, mongoDB, Express
 
+## APIs
 Geolocation API
 ip API
 
