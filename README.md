@@ -2,8 +2,8 @@
 ## react, reactsrap, bootstrap, leaflet, OpenStreetMap, react-leaflet, mongoDB, Express
 
 ## APIs
-Geolocation API
-ip API
+- Geolocation API
+- ip API
 
 # Guest Map
 
